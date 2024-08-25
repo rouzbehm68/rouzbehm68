@@ -18,4 +18,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rouzbehm68&show_icons=true&locale=en&layout=compact" alt="rouzbehm68" /></p>
 <hr>
-<div style="display: flex;"><img align="center" style="width: 33%" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173327.png?raw=true" alt="rouzbehm68" /></div>
+<div style="display: flex;">
+  <img align="center" style="width: 33%;border-radius:4px;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173327.png?raw=true" alt="rouzbehm68" />
+  <img align="center" style="width: 33%" src="" alt="rouzbehm68" />
+  <img align="center" style="width: 33%" src="" alt="rouzbehm68" />
+</div>
