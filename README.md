@@ -18,7 +18,7 @@
 <hr>
 <h3 align="left">Projects: </h3>
 
-<div style="display: flex;">
+<div style="display: flex;align-items:center">
   <img align="center" style="width: 33%;border-radius:14px;padding: 3px;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173327.png?raw=true" alt="rouzbehm68" />
   <img align="center" style="width: 33%;border-radius:14px;padding: 3px;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173413.png?raw=true" alt="rouzbehm68" />
   <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173520.png?raw=true" />
@@ -34,6 +34,9 @@
   <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20180050.png?raw=true" alt="rouzbehm68" />
   <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-08-26%20023935.png?raw=true" alt="rouzbehm68" />
   <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-08-26%20024003.png?raw=true" alt="rouzbehm68" />
+  <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/dentis%20(2).png?raw=true" alt="rouzbehm68" />
+  <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/dentis%20(3).png?raw=true" alt="rouzbehm68" />
+  <img align="center" style="width: 33%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/dentis%20(1).png?raw=true" alt="rouzbehm68" />
 
 </div>
 
