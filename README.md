@@ -18,7 +18,7 @@
 <hr>
 <h3 align="left">Projects: </h3>
 
-<div style="display: flex;align-items:center">
+<div align="center">
   <img align="center" style="width: 30%;border-radius:14px;padding: 3px;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173327.png?raw=true" alt="rouzbehm68" />
   <img align="center" style="width: 30%;border-radius:14px;padding: 3px;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173413.png?raw=true" alt="rouzbehm68" />
   <img align="center" style="width: 30%;" src="https://github.com/rouzbehm68/rouzbehm68/blob/main/Screenshot%202024-04-07%20173520.png?raw=true" />
